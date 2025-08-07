@@ -24,4 +24,4 @@ function criaCartao(categoria, pergunta, resposta) {
 
 
     container.appendChild(cartao)
-    
+}
